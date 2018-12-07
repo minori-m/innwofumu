@@ -1,0 +1,4 @@
+Pro/Resources/Fonts filter=lfs diff=lfs merge=lfs -text
+UnityProject filter=lfs diff=lfs merge=lfs -text
+3/Assets/TextMesh filter=lfs diff=lfs merge=lfs -text
+UnityProject[[:space:]]3/Assets/TextMesh[[:space:]]Pro/Resources/Fonts[[:space:]]&[[:space:]]Materials/UtsukushiFONT[[:space:]]SDF[[:space:]]no_momjibake.asset filter=lfs diff=lfs merge=lfs -text
