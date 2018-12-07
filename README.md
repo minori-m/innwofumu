@@ -14,3 +14,8 @@
 
 ## How to Connect Unity to Madmapper through Syphon
 https://www.evernote.com/l/ADj-r4SrNmVJ7KDjMoVrCs4FFjQHyLGvrUc
+
+
+## Notes for usage
+The Unity project used in exhibition is in UnityProject 3 folder.  
+You should unzip UnityProject 3/Assets/TextMesh Pro/Resources/Fonts & Materials/UtsukushiFONT SDF no_momjibake.asset.zip to implement the code.
